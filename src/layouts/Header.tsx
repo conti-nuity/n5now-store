@@ -60,7 +60,9 @@ const Index = () => {
   return (
     <Wrapper>
       <div>
-        <Logo>n5now Store</Logo>
+        <Link to="/">
+          <Logo>n5now Store</Logo>
+        </Link>
       </div>
       <div>
         <Actions>

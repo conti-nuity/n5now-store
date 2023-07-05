@@ -1,4 +1,8 @@
-## Online Store - Prueba Técnica - n5now
+# Online Store - Prueba Técnica - n5now
+
+## Demo
+
+[Live here ✔️](https://n5now-store.vercel.app/)
 
 ## Desarrollo rápido
 
@@ -23,6 +27,14 @@ Las variables de entorno se pueden utilizar para anular la configuración por de
 ## Data Persistence
 
 LocalStorage
+
+## Deploy Vercel
+
+Dashboard
+![Dashboard-Vercel](./src/assets/images/dashboard-vercel.png)
+
+Variables de entorno
+![Dashboard-Vercel](./src/assets/images/variables-de-entorno.png)
 
 ## Store
 
